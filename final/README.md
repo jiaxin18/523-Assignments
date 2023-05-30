@@ -2,7 +2,7 @@
 
 
 ## Explain the working of your App.
-1) translate English to another language, and use audio on the phone to speak it out (textto-speech)
+1) translate English to another language, and use audio on the phone to speak it out (text-to-speech)
 2) use the microphone on the phone for English speech recognition to present as text, and 
 translate it to another language (speech-to-text)
 3) use the camera on the phone to text recognition, and then translate to another language
